@@ -29,7 +29,7 @@
                         <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#services">Resume</a>
+                        <a class="nav-link" href="#resume">Resume</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#portfolio">Portfolio</a>
@@ -129,7 +129,7 @@
         <div class="container">
             <h1 class="other-header">Resume</h1>
 			<div class="row mt-4">
-                <div class="col-lg-4">
+                <div>
                     <img src="images/resume1.png" class= "imageResumePage" alt="">
                     <img src="images/resume2.png" class= "imageResumePage" alt="">
                 </div>
