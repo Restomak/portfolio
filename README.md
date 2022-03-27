@@ -156,7 +156,7 @@
         </div>
     </section>
 	
-	<hr>
+	<hr class="hr">
 	
 	<!-- contact section-->
     <section id="contact">
