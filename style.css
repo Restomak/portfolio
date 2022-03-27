@@ -21,6 +21,11 @@
     color: white;
 }
 /* the rest of the text above white screen*/
+.other-header {
+    text-align: center;
+	color: #4c0082;
+}
 .other-text {
+    text-align: left;
 	color: #4c0082;
 }
