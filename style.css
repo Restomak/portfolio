@@ -33,3 +33,13 @@
 .imageResumePage {
     width: 100%;
 }
+/* section borders */
+.hr {
+    height: 4px;
+    background-color: #4c0082;
+    border: 0;
+}
+/* display background color on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: #4c0082;
+}

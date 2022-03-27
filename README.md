@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Amanda/Robert\'s Portfolio</title>
+  <title>Portfolio Website</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- linking css file -->
@@ -156,7 +156,7 @@
         </div>
     </section>
 	
-	<hr width="100%" color="#4c0082" size="4">
+	<hr>
 	
 	<!-- contact section-->
     <section id="contact">
