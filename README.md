@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Amanda/Robert's Portfolio</title>
+  <title>Amanda/Robert\'s Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- linking css file -->
@@ -125,7 +125,7 @@
 		</div>
     </section>
 	
-	<hr width="75%" color="#ff0000" size="4">
+	<hr width="100%" color="#4c0082" size="4">
 	
 	<!-- resume section-->
     <section id="resume">
@@ -141,7 +141,7 @@
         </div>
     </section>
 	
-	<hr width="75%" color="#ff0000" size="4">
+	<hr width="100%" color="#4c0082" size="4">
 	
 	<!-- portfolio section-->
     <section id="portfolio">
@@ -156,7 +156,7 @@
         </div>
     </section>
 	
-	<hr width="75%" color="#ff0000" size="4">
+	<hr width="100%" color="#4c0082" size="4">
 	
 	<!-- contact section-->
     <section id="contact">
