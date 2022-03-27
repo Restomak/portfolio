@@ -69,8 +69,15 @@
             </div>
             <h2 class="text-left">Summary</h2>
             <div class="row mt-4">
-                <div class="col-lg-4">
-                    <p> I’ve spent my entire life as a game designer and the greater part of my life as a programmer. I’ve spent so long with both in my life, in fact, that I’ve been calling myself a game designer since long before I realized I’m trans and genderfluid. Now, I’m as much a part of the LGBTQIA+ community as I am a game designer and D&D dungeon master. I also make and sell handmade resin dice, and I moderate and develop for the web browser game <a href="https://mafia.gg/">Mafia.gg</a></p>
+                <div class="col-lg-12">
+                    <p> I’ve spent my entire life as a game designer and the greater part of my life as a programmer. I’ve spent so long with both in my life, in fact, that I’ve been calling myself a game designer since long before I realized I’m trans and genderfluid. Now, I’m as much a part of the LGBTQIA+ community as I am a game designer and D&D dungeon master. I also make and sell handmade resin dice, and I moderate and develop for the web browser game <a href="https://mafia.gg/" target="_blank">Mafia.gg</a></p>
+                </div>
+            </div>
+            <h2 class="text-left">Gingerbread Escape</h2>
+            <div class="row mt-4">
+                <div class="col-lg-10">
+                    <p> I’ve been a game designer since I was in first grade. My parents love to tell the story about how I came home from school one day with a board game I’d made in class, and how it changed my life forever. I was so excited to have them play it that they simply couldn’t say no, and so in short order we were playing Gingerbread Escape, a game about a freshly-baked gingerbread man trying to make his escape out of the kitchen without being caught by the dog. It was a simple game, with elements from both Snakes and Ladders as well as Candyland (two of my favourite games at the time), and inspired simply by my mother’s gingerbread cookies and our dog who’d charge into the kitchen and gobble up anything we’d accidentally dropped.</p>
+					<p> When my parents tell this story, they love to mention that they were expecting just to humor an excited first-grader for an hour, spending time as a family, before just moving on-- and that unexpectedly, they ended up having a great time playing! My dad states that later, I revealed to them that when I grew up I wanted to make games. He asked me why, and my answer to him was my mission statement (albeit from a first-grader’s vocabulary). Both my desire to make games and the reason for it have not changed in all those years; game design is my dream.</p>
                 </div>
             </div>
             <h2 class="text-center">More (unfinished)</h2>
