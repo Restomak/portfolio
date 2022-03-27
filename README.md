@@ -14,9 +14,10 @@
 </head>
 
 <body>
-	<nav class="navbar navbar-expand-lg fixed-top navbarScroll">
+	<!-- navbar -->
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark navbarScroll">
         <div class="container">
-            <a class="navbar-brand" href="#">Amanda/Robert</a>
+            <a class="navbar-brand" href="#">Top</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -156,7 +157,7 @@
         </div>
     </section>
 	
-	<hr class="hr">
+	<hr width="100%" color="#4c0082" size="4">
 	
 	<!-- contact section-->
     <section id="contact">

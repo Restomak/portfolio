@@ -33,13 +33,15 @@
 .imageResumePage {
     width: 100%;
 }
-/* section borders */
-.hr {
-    height: 4px;
-    background-color: #4c0082;
-    border: 0;
-}
 /* display background color on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: #4c0082;
+}
+/* spacing on all sections */
+#about, #resume, #portfolio, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#contact {
+    padding-bottom: 4rem;
 }
