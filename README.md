@@ -69,11 +69,11 @@
             </div>
             <h2 class="text-left">Summary</h2>
             <div class="row mt-4">
-                <div class="col-lg-8">
+                <div class="col-lg-4">
                     <p> I’ve spent my entire life as a game designer and the greater part of my life as a programmer. I’ve spent so long with both in my life, in fact, that I’ve been calling myself a game designer since long before I realized I’m trans and genderfluid. Now, I’m as much a part of the LGBTQIA+ community as I am a game designer and D&D dungeon master. I also make and sell handmade resin dice, and I moderate and develop for the web browser game <a href="https://mafia.gg/">Mafia.gg</a></p>
                 </div>
             </div>
-            <h2 class="text-center">More (unfinished)</h1>
+            <h2 class="text-center">More (unfinished)</h2>
             <div class="row mt-4">
                 <div class="col-lg-8">
                     <p> More paragraphs about me go here. figure out how to add images if I go if I want them
