@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Amanda/Rob's Portfolio Website</title>
+  <title>Amanda/Rob's Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- linking css file -->
@@ -44,6 +44,18 @@
             </div>
         </div>
     </nav>
+	
+	<!-- main banner -->
+    <section class="bgimage" id="home">
+        <div class="container-fluid">
+            <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
+                <h2 class="hero_title">Insert big text, name maybe?</h2>
+                <p class="hero_desc">Insert smaller text, tagline for who I am?</p>
+            </div>
+            </div>
+        </div>
+    </section>
 
     <!-- load javascript after loading all html content -->
     <script src="script/script.js"></script>
