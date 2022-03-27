@@ -49,10 +49,10 @@
     <section class="bgimage" id="home">
         <div class="container-fluid">
             <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
-                <h2 class="hero_title">Insert big text, name maybe?</h2>
-                <p class="hero_desc">Insert smaller text, tagline for who I am?</p>
-            </div>
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
+					<h2 class="hero_title">Insert big text, name maybe?</h2>
+					<p class="hero_desc">Insert smaller text, tagline for who I am?</p>
+				</div>
             </div>
         </div>
     </section>
@@ -61,13 +61,21 @@
     <section id="about">
         <div class="container mt-4 pt-4">
             <h1 class="text-center">About Me</h1>
+            <h2 class="text-center">Mission Statement</h1>
             <div class="row mt-4">
                 <div class="col-lg-8">
-                    <p> Paragraph about me goes here. figure out how to add images if I go if I want them
+                    <p> My goal in game design is to spread enjoyment and fun, to help people unwind and relax, and maybe forget the negative things in their lives for a little while. I want to make people smile and have a good time.</p>
+                </div>
+            </div>
+            <h2 class="text-center">More (unfinished)</h1>
+            <div class="row mt-4">
+                <div class="col-lg-8">
+                    <p> More paragraphs about me go here. figure out how to add images if I go if I want them
                         
                     </p>
                 </div>
             </div>
+		</div>
     </section>
 
 
