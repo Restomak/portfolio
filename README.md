@@ -105,11 +105,20 @@
                     <p class="other-text"> Discovering I was trans and genderfluid was like turning on the lights for the first time after spending my entire life living in a set of pitch-black rooms. Problems and weird feelings I’d been bumping into all my life-- things I knew were there but never quite knew what they were-- were suddenly crystal clear to me. For the first time, I knew what was missing before I went out into professional life: knowing how I wanted to be <i>me</i>. It was suddenly easier to seek out help, to do everyday tasks, to get my work done, to simply feel <i>happier</i>. It has changed my life, and finally I feel more able to move forward.</p>
                 </div>
             </div>
-            <h2 class="text-center">More (unfinished)</h2>
+            <h2 class="other-text">Mafia.gg</h2>
             <div class="row mt-4">
                 <div class="col-lg-12">
-                    <p class="other-text"> More paragraphs about me go here. figure out how to add images if I go if I want them</p>
-                    <p class="other-text"> </p>
+                    <p class="other-text"> Returning to live once again with family due safety reasons with the COVID-19 pandemic, I finally put in some work towards professional life. I reached out to an acquaintance of an acquaintance: one of the lead developers for the web browser game <i>Mafia.gg</i>, and told him I wasn’t sure if the team was looking to accept new members, but that I was interested and would love to work on the game with them.</p>
+                    <p class="other-text"> After a successful interview and an introduction to the team (several of whom I was already acquainted with), I began learning their source code, and with the help of another team member, put forward my first addition to the game: two new roles, one of which was an immediate and huge hit with the community. Confidence bolstered, I’ve since added more to the game. I’ve added vote quoting, a feature long-desired by the community; I’ve created and implemented many new roles; I’ve added flavour text to pre-existing roles and worked with the team in the creation of our new FAQ, making the game friendlier to newer players; and more, including an April Fool’s day event item that has the community to this day impatient for its return.</p>
+                    <p class="other-text"> Today, I continue to add more to the game. I now host popular event games for the community, and I'm regularly designing new roles and quality of life features. I've recently created a new Ready Check feature to give hosts more control over their lobbies before they begin a game!</p>
+                </div>
+            </div>
+            <h2 class="other-text">More Projects</h2>
+            <div class="row mt-4">
+                <div class="col-lg-12">
+                    <p class="other-text"> <i>Mafia.gg</i> isn’t the only thing I’ve been working on since the beginning of the pandemic; I’ve also begun the hobby of creating handmade resin dice sets, and I sell them in my shop on Etsy. As this is all run by myself, in addition to the actual making of the dice, I am also responsible for marketing as well as communication with customers to make sure everything is made to their liking. I’ve successfully made 20 sales so far (14 using the site itself), and have managed to maintain a 5-star rating!</p>
+                    <p class="other-text"> As mentioned in the beginning, however, workshop-style creation passion pales in comparison to the passion I have for making games. As such, I’ve been working on several new projects, including having created a new board game! With the working title Greedy Wizards, it’s already through seven rounds of playtesting (several have had groups that had no prior knowledge of the game nor input from me-- I was there as an observer only), and so far everyone who’s played it has loved it! While my other projects aren't yet ready to be shown to the public, I'm hard at work nearly every day refining my game design, programming, and storytelling skills.</p>
+                    <p class="other-text"> With my life on track, it’s time for me to begin a new chapter in my life: with my passion for game design, professionally.</p>
                 </div>
             </div>
 		</div>
