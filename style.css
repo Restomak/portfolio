@@ -1,9 +1,10 @@
 /* pfp image section */
 .me-text {
-    text-align: left;
+    text-align: center;
 	color: white;
 }
 .me-pic {
+    text-align: center;
     width: 100%;
 }
 /* hero background image */
