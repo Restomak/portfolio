@@ -1,18 +1,10 @@
-/* pfp image css */
-.imageMe {
-    width: 100%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
-.meSection {
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
-.text-me {
+/* pfp image section */
+.me-text {
     text-align: left;
-    position: absolute;
-    top: 50%;
-    color: white;
+	color: #4c0082;
+}
+.me-pic {
+    width: 100%;
 }
 /* hero background image */
 .bgimage {
