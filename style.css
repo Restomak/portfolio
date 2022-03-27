@@ -1,6 +1,15 @@
 /* pfp image css */
 .imageMe {
     width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.text-me {
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    color: white;
 }
 /* hero background image */
 .bgimage {
