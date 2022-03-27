@@ -56,6 +56,20 @@
             </div>
         </div>
     </section>
+	
+	<!-- about section-->
+    <section id="about">
+        <div class="container mt-4 pt-4">
+            <h1 class="text-center">About Me</h1>
+            <div class="row mt-4">
+                <div class="col-lg-8">
+                    <p> Paragraph about me goes here. figure out how to add images if I go if I want them
+                        
+                    </p>
+                </div>
+            </div>
+    </section>
+
 
     <!-- load javascript after loading all html content -->
     <script src="script/script.js"></script>
