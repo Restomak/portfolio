@@ -48,8 +48,8 @@
         <div class="container-fluid">
             <div class="row">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
-					<h2 class="hero_title">Insert big text, name maybe?</h2>
-					<p class="hero_desc">Insert smaller text, tagline for who I am?</p>
+					<h2 class="hero_title">I'm Amanda/Robert</h2>
+					<p class="hero_desc">You can call me either. I'm a genderfluid trans girl with a passion for game design and programming!</p>
 				</div>
             </div>
         </div>
@@ -123,7 +123,19 @@
             </div>
 		</div>
     </section>
-
+	
+	<!-- services section-->
+    <section id="resume">
+        <div class="container">
+            <h1 class="other-header">Resume</h1>
+			<div class="row mt-4">
+                <div class="col-lg-4">
+                    <img src="images/resume1.png" class= "imageResumePage" alt="">
+                    <img src="images/resume2.png" class= "imageResumePage" alt="">
+                </div>
+			</div>
+        </div>
+    </section>
 
     <!-- load javascript after loading all html content -->
     <script src="script/script.js"></script>
