@@ -61,10 +61,16 @@
     <section id="about">
         <div class="container mt-4 pt-4">
             <h1 class="text-center">About Me</h1>
-            <h2 class="text-center">Mission Statement</h1>
+            <h2 class="text-left">Mission Statement</h2>
             <div class="row mt-4">
                 <div class="col-lg-8">
                     <p> My goal in game design is to spread enjoyment and fun, to help people unwind and relax, and maybe forget the negative things in their lives for a little while. I want to make people smile and have a good time.</p>
+                </div>
+            </div>
+            <h2 class="text-left">Summary</h2>
+            <div class="row mt-4">
+                <div class="col-lg-8">
+                    <p> I’ve spent my entire life as a game designer and the greater part of my life as a programmer. I’ve spent so long with both in my life, in fact, that I’ve been calling myself a game designer since long before I realized I’m trans and genderfluid. Now, I’m as much a part of the LGBTQIA+ community as I am a game designer and D&D dungeon master. I also make and sell handmade resin dice, and I moderate and develop for the web browser game <a href="https://mafia.gg/">Mafia.gg</a></p>
                 </div>
             </div>
             <h2 class="text-center">More (unfinished)</h1>
