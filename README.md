@@ -60,28 +60,28 @@
 	<!-- about section-->
     <section id="about">
         <div class="container mt-4 pt-4">
-            <h1 class="text-center other-text">About Me</h1>
-            <h2 class="text-left other-text">Mission Statement</h2>
-            <div class="row mt-4 other-text">
+            <h1 class="text-center">About Me</h1>
+            <h2 class="text-left">Mission Statement</h2>
+            <div class="row mt-4">
                 <div class="col-lg-12">
-                    <p> My goal in game design is to spread enjoyment and fun, to help people unwind and relax, and maybe forget the negative things in their lives for a little while. I want to make people smile and have a good time.</p>
+                    <p class="other-text"> My goal in game design is to spread enjoyment and fun, to help people unwind and relax, and maybe forget the negative things in their lives for a little while. I want to make people smile and have a good time.</p>
                 </div>
             </div>
-            <h2 class="text-left other-text">Summary</h2>
-            <div class="row mt-4 other-text">
+            <h2 class="text-left">Summary</h2>
+            <div class="row mt-4">
                 <div class="col-lg-12">
                     <p> I’ve spent my entire life as a game designer and the greater part of my life as a programmer. I’ve spent so long with both in my life, in fact, that I’ve been calling myself a game designer since long before I realized I’m trans and genderfluid. Now, I’m as much a part of the LGBTQIA+ community as I am a game designer and D&D dungeon master. I also make and sell handmade resin dice, and I develop and moderate for the web browser game <a href="https://mafia.gg/" target="_blank">Mafia.gg</a></p>
                 </div>
             </div>
-            <h2 class="text-left other-text">Gingerbread Escape</h2>
-            <div class="row mt-4 other-text">
+            <h2 class="text-left">Gingerbread Escape</h2>
+            <div class="row mt-4">
                 <div class="col-lg-12">
                     <p> I’ve been a game designer since I was in first grade. My parents love to tell the story about how I came home from school one day with a board game I’d made in class, and how it changed my life forever. I was so excited to have them play it that they simply couldn’t say no, and so in short order we were playing <i>Gingerbread Escape</i>, a game about a freshly-baked gingerbread man trying to make his escape out of the kitchen without being caught by the dog. It was a simple game, with elements from both <i>Snakes and Ladders</i> as well as <i>Candyland</i> (two of my favourite games at the time), and inspired simply by my mother’s gingerbread cookies and our dog who’d charge into the kitchen and gobble up anything we’d accidentally dropped.</p>
 					<p> When my parents tell this story, they love to mention that they were expecting just to humor an excited first-grader for an hour, spending time as a family, before just moving on-- and that unexpectedly, they ended up having a great time playing! My dad states that later, I revealed to them that when I grew up I wanted to make games. He asked me why, and my answer to him was my mission statement (albeit from a first-grader’s vocabulary). Both my desire to make games and the reason for it have not changed in all those years; game design is my dream.</p>
                 </div>
             </div>
-            <h2 class="text-left other-text">My Introduction to Programming</h2>
-            <div class="row mt-4 other-text">
+            <h2 class="text-left">My Introduction to Programming</h2>
+            <div class="row mt-4">
                 <div class="col-lg-12">
                     <p> As luck would have it, I was given the option in grade 9 to take a mixed shop & tech class. I enjoyed the workshop half of the class but only with mild curiosity when compared to how much I enjoyed the tech half of it; we were taught my first ever programming language: <i>Object Oriented Turing</i> (OOT).</p>
                     <p> I hyper-fixated on OOT with a passion paralleling only my interests in both making and playing games. I quickly learned that I could make games using it, and the first “game” I ever made and programmed was a little Mario platformer with rigid physics that took place all on one screen-- everything was tiny, but I <i>loved</i> it.</p>

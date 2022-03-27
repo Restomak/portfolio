@@ -20,6 +20,7 @@
     transform: translate(-50%, -50%);
     color: white;
 }
+/* the rest of the text above white screen*/
 .other-text {
-	color: white;
+	color: #4c0082;
 }
