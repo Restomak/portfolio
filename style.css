@@ -2,6 +2,9 @@
 .me-text {
     text-align: center;
 	color: white;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
 }
 .me-pic {
     text-align: center;
