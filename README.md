@@ -49,7 +49,8 @@
             <div class="row">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
 					<h2 class="hero_title">I'm Amanda/Robert</h2>
-					<p class="hero_desc">You can call me either. I'm a genderfluid trans girl with a passion for game design and programming!</p>
+					<p class="hero_desc">You can call me either.</p>
+					<p class="hero_desc">I'm a genderfluid trans girl with a passion for game design and programming!</p>
 				</div>
             </div>
         </div>
@@ -124,16 +125,49 @@
 		</div>
     </section>
 	
-	<!-- services section-->
+	<hr width="75%" color="#ff0000" size="4">
+	
+	<!-- resume section-->
     <section id="resume">
         <div class="container">
             <h1 class="other-header">Resume</h1>
+            <p class="other-header">Want my resume in pdf form? Here's a <a href="https://drive.google.com/file/d/1KcyaYUGhdPvCxvxlBFt98l6ZE1EHad2y/view?usp=sharing" target="_blank">download link</a>!</p>
 			<div class="row mt-4">
                 <div>
                     <img src="images/resume1.png" class= "imageResumePage" alt="">
                     <img src="images/resume2.png" class= "imageResumePage" alt="">
                 </div>
 			</div>
+        </div>
+    </section>
+	
+	<hr width="75%" color="#ff0000" size="4">
+	
+	<!-- portfolio section-->
+    <section id="portfolio">
+        <div class="container">
+            <h1 class="other-header">Portfolio</h1>
+            <h2 class="other-text">Not added yet</h2>
+            <div class="row mt-4">
+                <div class="col-lg-12">
+                    <p class="other-text"> There's work to be done!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+	<hr width="75%" color="#ff0000" size="4">
+	
+	<!-- contact section-->
+    <section id="contact">
+        <div class="container">
+            <h1 class="other-header">Contact & Other Links</h1>
+            <h2 class="other-text">Not added yet</h2>
+            <div class="row mt-4">
+                <div class="col-lg-12">
+                    <p class="other-text"> There's work to be done!</p>
+                </div>
+            </div>
         </div>
     </section>
 
