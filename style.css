@@ -5,8 +5,9 @@
 }
 .me-pic {
     text-align: center;
-    position: absolute;
+    position: relative;
     left: 50%;
+    transform: translate(-50%, 0%);
 }
 /* hero background image */
 .bgimage {
