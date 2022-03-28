@@ -22,14 +22,18 @@
 	background-color: #efefef;
 }
 /* the rest of the text above white screen */
-.other-header {
+.other-title {
     text-align: center;
-	text-decoration: underline;
+	text-decoration: underline 1px;
+	text-decoration-color: #3f0c76;
+}
+.other-header {
+    text-align: left;
+	text-decoration: underline 1px;
 	text-decoration-color: #3f0c76;
 }
 .other-text {
     text-align: left;
-	color: #3f0c76;
 }
 /* portfolio section images css */
 .imageMafia {
