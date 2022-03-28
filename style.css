@@ -44,6 +44,10 @@
     text-align: left;
 	color: #4c0082;
 }
+/* portfolio section images css */
+.imageMafia {
+    width: 100%;
+}
 /* resume section images css */
 .imageResumePage {
     width: 100%;
