@@ -13,33 +13,15 @@
     left: 50%;
     transform: translate(-50%, 0%);
 }
-/* hero background image */
-.bgimage {
-    height:100vh;
-    background: url('images/heroImage.png');
-    background-size:cover;
-    position:relative;
-}
-/* text css above hero image*/
-.hero_title {
-    font-size: 4rem;
-}
-.hero_desc {
-    font-size: 1.5rem;
-}
-.hero-text {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-}
+/* backgrounds */
 .home_background {
     height:100vh;
 	background-color: #3f0c76;
 }
-/* the rest of the text above white screen*/
+.links_background {
+	background-color: #efefef;
+}
+/* the rest of the text above white screen */
 .other-header {
     text-align: center;
 	color: #3f0c76;
@@ -48,16 +30,8 @@
     text-align: left;
 	color: #3f0c76;
 }
-/* background for resume & contacts */
-.links_background {
-	background-color: #efefef;
-}
 /* portfolio section images css */
 .imageMafia {
-    width: 100%;
-}
-/* resume section images css */
-.imageResumePage {
     width: 100%;
 }
 /* display background color on navbar scroll */
@@ -65,12 +39,10 @@
     background-color: #3f0c76;
 }
 /* spacing on all sections */
-#about, #resume, #portfolio {
+#about, #resume, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 }
 #contact {
-    margin-top: 4rem;
-    padding-top: 4rem;
     padding-bottom: 4rem;
 }
