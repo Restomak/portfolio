@@ -57,7 +57,7 @@
     background-color: #4c0082;
 }
 /* spacing on all sections */
-#about, #resume, #portfolio, #contact {
+#about, #resume, #portfolio {
     margin-top: 4rem;
     padding-top: 4rem;
 }
