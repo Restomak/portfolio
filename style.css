@@ -24,7 +24,8 @@
 /* the rest of the text above white screen */
 .other-header {
     text-align: center;
-	color: #3f0c76;
+	text-decoration: underline;
+	text-decoration-color: #3f0c76;
 }
 .other-text {
     text-align: left;
