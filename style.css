@@ -35,6 +35,10 @@
     transform: translate(-50%, -50%);
     color: white;
 }
+.home_background {
+    height:100vh;
+	background-color: #4c0082;
+}
 /* the rest of the text above white screen*/
 .other-header {
     text-align: center;
@@ -57,7 +61,7 @@
     background-color: #4c0082;
 }
 /* spacing on all sections */
-#about, #resume, #portfolio {
+#about, #resume, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 }
