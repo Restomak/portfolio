@@ -42,6 +42,10 @@
 .other-text {
     text-align: left;
 }
+.other-text-caption {
+    text-align: left;
+    color: #3f0c76;
+}
 /* portfolio section images css */
 .imagePortfolioBigIntro {
     width: 100%;
