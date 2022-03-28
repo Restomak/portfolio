@@ -37,16 +37,21 @@
 }
 .home_background {
     height:100vh;
-	background-color: #4c0082;
+	background-color: #3f0c76;
 }
 /* the rest of the text above white screen*/
 .other-header {
     text-align: center;
-	color: #4c0082;
+	color: #3f0c76;
 }
 .other-text {
     text-align: left;
-	color: #4c0082;
+	color: #3f0c76;
+}
+/* background for resume & contacts */
+.links_background {
+    height:100vh;
+	background-color: #efefef;
 }
 /* portfolio section images css */
 .imageMafia {
@@ -58,12 +63,16 @@
 }
 /* display background color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #4c0082;
+    background-color: #3f0c76;
 }
 /* spacing on all sections */
-#about, #resume, #portfolio, #contact {
+#about, #resume, #portfolio {
     margin-top: 4rem;
     padding-top: 4rem;
+}
+#contact {
+    margin-top: 4rem;
+    padding-top: 2rem;
 }
 #contact {
     padding-bottom: 4rem;
