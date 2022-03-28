@@ -29,8 +29,10 @@
 }
 .other-header {
     text-align: left;
-	text-decoration: underline 1px;
-	text-decoration-color: #3f0c76;
+	position: absolute;
+	border-bottom: 1px #3f0c76;
+	width: 100%;
+	height: 1.1em;
 }
 .other-text {
     text-align: left;
