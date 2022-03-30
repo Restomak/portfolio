@@ -59,6 +59,9 @@
 .flex-element {
 	display: flex;
 }
+.projects-bar-element{
+	background-color: #efefef;
+}
 a,
 .nav-link {
     text-decoration: underline;
