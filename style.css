@@ -59,3 +59,7 @@
 .flex-element {
 	display: flex;
 }
+a,
+.nav-link {
+    text-decoration: underline;
+}
