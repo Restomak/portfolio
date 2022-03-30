@@ -66,3 +66,7 @@ a,
 .nav-link {
     text-decoration: underline;
 }
+a,
+.navbar-brand {
+    text-decoration: underline;
+}
