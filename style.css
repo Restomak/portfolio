@@ -1,18 +1,4 @@
 /* pfp image section */
-.me-text {
-    text-align: center;
-	color: white;
-    position: relative;
-    left: 50%;
-    margin-right: 50%;
-    transform: translate(-50%, 0%);
-}
-.me-pic {
-    text-align: center;
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, 0%);
-}
 /* backgrounds */
 .home_background {
     height:100vh;
@@ -59,6 +45,9 @@
 #about, #resume, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
+}
+#home {
+    padding-top: 7.5rem;
 }
 #contact {
     padding-bottom: 4rem;
